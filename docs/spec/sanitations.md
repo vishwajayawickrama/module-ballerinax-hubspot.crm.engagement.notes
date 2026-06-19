@@ -1,6 +1,6 @@
 _Author_:  @linukaratnayake \
 _Created_: 03.01.2025 \
-_Updated_: 2026/06/17 \\
+_Updated_: 2026/06/17 \
 _Edition_: Swan Lake
 
 # Sanitation for OpenAPI specification
